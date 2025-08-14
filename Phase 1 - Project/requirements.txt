@@ -1,0 +1,14 @@
+streamlit
+langchain_groq 
+langchain_community 
+pypdf 
+sentence_transformers
+python-dotenv
+chromadb
+langchain-chroma
+# transformers
+langchain-text-splitters
+rank_bm25
+langchain-huggingface
+youtube-transcript-api
+pytube
